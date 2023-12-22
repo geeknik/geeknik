@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+[![An image of @geeknik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geeknik)](https://holopin.io/@geeknik)
 
 <!--
 **geeknik/geeknik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
