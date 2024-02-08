@@ -1,4 +1,6 @@
-### Hi 👋
+### Geeknik's GitHub
+
+Hi friends 👋 Be sure and check out [my linktree](https://linktr.ee/geeknik) when you're done wandering through my code here.
 
 [![An image of @geeknik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geeknik)](https://holopin.io/@geeknik)
 
