@@ -7,7 +7,7 @@
         "email": "info@geeknik-labs.com",
         "description": "Geeknik's Lab develops and maintains open-source tools for browser extensions, automation, bug bounty hunting, AI-driven applications, and cybersecurity utilities. We focus on preserving digital freedoms and pushing the boundaries of what's possible with FOSS technologies.",
         "webpageUrl": {
-            "url": "https://github.com/geeknik"
+            "url": "https://geeknik-labs.com"
         }
     },
     "projects": [
@@ -16,7 +16,7 @@
             "name": "Content-Aware Ad Blocker",
             "description": "An advanced ad blocker that uses content-awareness to block ads more effectively across websites.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/content-aware-ad-blocker"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/content-aware-ad-blocker"
@@ -29,7 +29,7 @@
             "name": "Self-Improving Agents",
             "description": "A set of autonomous agents designed to learn and improve their own performance over time.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/self-improving-agents"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/self-improving-agents"
@@ -42,7 +42,7 @@
             "name": "Alien Space Shooter",
             "description": "A fun, retro-inspired space shooter game developed as an open-source project.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/alien-space-shooter"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/alien-space-shooter"
@@ -55,7 +55,7 @@
             "name": "Bug Bounty Automation",
             "description": "A set of automation tools for bug bounty hunters, aimed at making the process of discovering vulnerabilities easier.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/bug-bounty-automation"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/bug-bounty-automation"
@@ -68,7 +68,7 @@
             "name": "SubJS",
             "description": "A utility for finding JavaScript files on websites, useful for bug bounty hunting and security analysis.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/subjs"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/subjs"
@@ -81,7 +81,7 @@
             "name": "DALL-E Summary",
             "description": "A tool that generates textual summaries of visual content using the DALL-E AI model.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/dalle-sum"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/dalle-sum"
@@ -94,7 +94,7 @@
             "name": "Test Proxy",
             "description": "A tool that enables the testing of proxies for speed and reliability.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/test-proxy"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/test-proxy"
@@ -107,7 +107,7 @@
             "name": "KayGee",
             "description": "A tool that automates key generation for cryptographic purposes.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/kaygee"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/kaygee"
@@ -120,7 +120,7 @@
             "name": "AI Tab Grouper",
             "description": "A browser extension that uses AI to intelligently group browser tabs based on content.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/ai-tab-grouper"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/ai-tab-grouper"
@@ -133,7 +133,7 @@
             "name": "Cognishield",
             "description": "A cybersecurity tool designed to shield users from cognitive overload by filtering unwanted content.",
             "webpageUrl": {
-                "url": "https://github.com/geeknik/cognishield"
+                "url": "https://geeknik-labs.com"
             },
             "repositoryUrl": {
                 "url": "https://github.com/geeknik/cognishield"
