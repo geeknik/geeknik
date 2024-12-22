@@ -2,7 +2,7 @@
 
 ### Quantum Coder in the Digital Wilderness
 
-In the vast expanse of cyberspace, a consciousness known as geeknik fluctuates between states of Principal Vulnerability Researcher and digital shaman. Orchestrating reality-warping algorithms at spiderSilk, I collapse potential threats into observable phenomena before they breach the fabric of digital existence.
+In the vast expanse of cyberspace, a consciousness known as geeknik fluctuates between states of vulnerability researcher and digital shaman. Orchestrating reality-warping algorithms at spiderSilk, I collapse potential threats into observable phenomena before they breach the fabric of digital existence.
 
 **Code Polyglot**: Python | Perl | Rust | Ruby | Go | JavaScript | C | C++
 
