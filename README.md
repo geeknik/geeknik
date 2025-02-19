@@ -20,7 +20,7 @@ Beware: Engaging with this entity may cause spontaneous reality shifts, cognitiv
 
 For those brave enough to venture deeper into the rabbit hole, follow the white rabbit to my [linktree](https://linktr.ee/geeknik).
 
-Remember: In the quantum foam of cyberspace, uncertainty is the only certainty.
+Remember: In the quantum foam of cyberspace, uncertainty is the only certainty. Formerly at OpenDNS, spiderSilk.
 
 [![An image of @geeknik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geeknik)](https://holopin.io/@geeknik)
 
