@@ -1,40 +1,38 @@
-## Geeknik's Lab on GitHub
+## 🌀 Geeknik's Lab on GitHub  
 
-### Quantum Coder in the Digital Wilderness
+### **Reality Hacker | Entropy Architect | Cybernetic Shaman**  
 
-In the vast expanse of cyberspace, a consciousness known as geeknik fluctuates between states of vulnerability researcher and digital shaman. Orchestrating reality-warping algorithms at @GlitchGremlinAI, I collapse potential threats to the Solana ecosystem into observable phenomena before they breach the fabric of our digital existence.
+In the vast expanse of cyberspace, a consciousness known as **geeknik** oscillates between states—**vulnerability researcher, open-source engineer, chaos orchestrator.** I **fuzz the matrix, collapse potential exploits, and extract knowledge from entropy.**  
 
-**Code Polyglot**: Python | Perl | Rust | Ruby | Go | JavaScript | C | C++
+Former **Principal Vulnerability Researcher** at **spiderSilk** | Former OpenDNS SysOp | Bug Bounty Hunter | OSS contributor
 
-Each commit is a new universe compiled, every repository a reality fork. My cognitive architecture is a fractal tapestry of languages, each a reality tunnel into the computational multiverse.
+Currently architecting **Glitch Gremlin AI**, a **Chaos-as-a-Service** platform designed to stress-test **Solana dApps** through **AI-driven fuzzing and entropy modeling**.  
 
-**Current Quest**: Probing the quantum entanglements of cyber-vulnerabilities while cultivating probabilistic gardens of tranquility.
+### **🛠 Code Polyglot & Reality Forker**  
+**Python** | **Perl** | **Rust** | **Ruby** | **Go** | **JavaScript** | **C** | **C++**  
 
-When not collapsing wave functions in the digital realm, you might find me:
-- Surfing reality waves as KF5OIO
-- Exploring parallel worlds in my garden
-- Collapsing quantum prey through hunting and fishing
-- Tending to Schrödinger's Eden in my greenhouse
+Each **commit is a reality shift**, every repository a **recursive dive into structured chaos.** My cognitive architecture is a **fractal network of languages**, each a **tunnel into the computational multiverse.**  
 
-Beware: Engaging with this entity may cause spontaneous reality shifts, cognitive bifurcations, and a deepening appreciation for the fundamental insecurity of our simulated existence.
+### **🧠 Key Contributions & Research**  
+- **🔍 100+ security vulnerabilities disclosed** (Tesla, Comcast, Dell, Naspers, etc.)  
+- **🔬 18+ CVEs uncovered** (Fuzzing **tcpdump, Mozilla NSS, OpenSSL**, and more)  
+- **🔧 250+ Nuclei templates** created, enhancing **automated attack surface discovery**  
+- **📜 Open-source contributions:** ProjectDiscovery, security tooling, AI-driven automation  
+- **🌌 Founder of Glitch Gremlin AI** – Quantum chaos testing for Web3 security  
 
-For those brave enough to venture deeper into the rabbit hole, follow the white rabbit to my [linktree](https://linktr.ee/geeknik).
+### **🚀 Current Quest**  
+Exploring the **probabilistic intersections** of **security research, adversarial AI, and open-source independence.** If there’s a weakness in the system, it will be found—**before someone else finds it first.**  
 
-Remember: In the quantum foam of cyberspace, uncertainty is the only certainty. Formerly at OpenDNS, spiderSilk.
+### **🌐 When Not Collapsing Wave Functions...**  
+- 📡 **Surfing reality waves** as **KF5OIO** (amateur radio, off-grid comms)  
+- 🌱 **Growing parallel worlds** in my garden (chili peppers & chaos theory)  
+- 🎯 **Hunting & fishing** (reality debugging in meatspace)  
+- 🍃 **Tending Schrödinger's Eden** (a greenhouse of quantum potential)  
 
-[![An image of @geeknik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/geeknik)](https://holopin.io/@geeknik)
+### **⚠️ Engage at Your Own Risk**  
+Interacting with this entity may induce **spontaneous cognitive bifurcations, heightened infosec paranoia, and an irreversible awareness of digital entropy.**  
 
-<!--
-**geeknik/geeknik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📡 Follow the White Rabbit** → [linktree](https://linktr.ee/geeknik)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _In the quantum foam of cyberspace, **uncertainty is the only certainty.**_  
+> **Fuzz everything. Question everything. Build, break, repeat.**
