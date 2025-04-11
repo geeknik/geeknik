@@ -18,8 +18,8 @@ I don’t write code. I **summon artifacts**. Each repo is a controlled anomaly.
 ---
 
 ### **🔍 Glitch Signals in the Archive**
-- **100+ vulnerabilities disclosed** – from high-impact bounties to invisible flaws in critical infrastructure
-- **18+ CVEs dropped** – focused on cryptographic decay, input desynchronization, and protocol edge cases
+- **1000+ vulnerabilities disclosed** – from high-impact bounties to invisible flaws in critical infrastructure
+- **100+ CVEs dropped** – focused on cryptographic decay, input desynchronization, and protocol edge cases
 - **250+ Nuclei templates spawned** – ghost-scripts for discovering fragile seams in exposed systems
 - **Founder of Glitch Gremlin AI** – chaotic neutral entity fuzzing the myth of stable software
 
