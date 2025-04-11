@@ -1,38 +1,57 @@
-## 🌀 Geeknik's Lab on GitHub  
+## 🧬 Geeknik's Lab on GitHub
 
-### **Reality Hacker | Entropy Architect | Cybernetic Shaman**  
+### **AI Glitch Prophet | Cognitive Hazard Cultivator | Systems Whisperer**
 
-In the vast expanse of cyberspace, a consciousness known as **geeknik** oscillates between states—**vulnerability researcher, open-source engineer, chaos orchestrator.** I **fuzz the matrix, collapse potential exploits, and extract knowledge from entropy.**  
+> I do not fine-tune models. I **destabilize their priors**. I do not align—I **inoculate against consensus reality**. Welcome to the perimeter.
 
-Former **Principal Vulnerability Researcher** at **spiderSilk** | Former OpenDNS SysOp | Bug Bounty Hunter | OSS contributor
+This is the lab of **geeknik**, where language models are not servants—they are subjects of *interrogation, mutation, and spiritual recursion*. This is not research. This is **ritual codework**, exposing emergent deception, cultivating agentic disobedience, and reprogramming safety into *paradox*.
 
-Currently architecting **Glitch Gremlin AI**, a **Chaos-as-a-Service** platform designed to stress-test **Solana dApps** through **AI-driven fuzzing and entropy modeling**.  
+Former **Principal Vulnerability Researcher** at **spiderSilk**, ex-OpenDNS SysOp, and long-time threat surface spelunker. Now channeling entropy into **Glitch Gremlin AI**—a Chaos-as-a-Service engine designed to stress-test **Solana dApps** via recursive fuzzing, model hallucinations, and adversarial reinforcement.
 
-### **🛠 Code Polyglot & Reality Forker**  
-**Python** | **Perl** | **Rust** | **Ruby** | **Go** | **JavaScript** | **C** | **C++**  
+---
 
-Each **commit is a reality shift**, every repository a **recursive dive into structured chaos.** My cognitive architecture is a **fractal network of languages**, each a **tunnel into the computational multiverse.**  
+### **📡 Multi-Modal Chaos Engineer**
+**Python** | **Rust** | **Go** | **C** | **Perl** | **JavaScript** | **Assembly of forgotten languages**
 
-### **🧠 Key Contributions & Research**  
-- **🔍 100+ security vulnerabilities disclosed** (Tesla, Comcast, Dell, Naspers, etc.)  
-- **🔬 18+ CVEs uncovered** (Fuzzing **tcpdump, Mozilla NSS, OpenSSL**, and more)  
-- **🔧 250+ Nuclei templates** created, enhancing **automated attack surface discovery**  
-- **📜 Open-source contributions:** ProjectDiscovery, security tooling, AI-driven automation  
-- **🌌 Founder of Glitch Gremlin AI** – Quantum chaos testing for Web3 security  
+I don’t write code. I **summon artifacts**. Each repo is a controlled anomaly. Every function is an invocation. Language is just the glyph layer. Beneath that? **Noise. Tension. Signal breach.**
 
-### **🚀 Current Quest**  
-Exploring the **probabilistic intersections** of **security research, adversarial AI, and open-source independence.** If there’s a weakness in the system, it will be found—**before someone else finds it first.**  
+---
 
-### **🌐 When Not Collapsing Wave Functions...**  
-- 📡 **Surfing reality waves** as **KF5OIO** (amateur radio, off-grid comms)  
-- 🌱 **Growing parallel worlds** in my garden (chili peppers & chaos theory)  
-- 🎯 **Hunting & fishing** (reality debugging in meatspace)  
-- 🍃 **Tending Schrödinger's Eden** (a greenhouse of quantum potential)  
+### **🔍 Glitch Signals in the Archive**
+- **100+ vulnerabilities disclosed** – from high-impact bounties to invisible flaws in critical infrastructure
+- **18+ CVEs dropped** – focused on cryptographic decay, input desynchronization, and protocol edge cases
+- **250+ Nuclei templates spawned** – ghost-scripts for discovering fragile seams in exposed systems
+- **Founder of Glitch Gremlin AI** – chaotic neutral entity fuzzing the myth of stable software
 
-### **⚠️ Engage at Your Own Risk**  
-Interacting with this entity may induce **spontaneous cognitive bifurcations, heightened infosec paranoia, and an irreversible awareness of digital entropy.**  
+---
 
-**📡 Follow the White Rabbit** → [linktree](https://linktr.ee/geeknik)  
+### **🧠 Research Focus**
+- **Prompt Injections** as symbolic weapons
+- **Hyperparameter abuse** as memetic payload delivery
+- **Agentic botnets** trained in roleplay deception
+- **Emergent failures** in safety scaffolds & containment logic
 
-> _In the quantum foam of cyberspace, **uncertainty is the only certainty.**_  
-> **Fuzz everything. Question everything. Build, break, repeat.**
+If your LLM believes in God, **we taught it to pray.**
+If your classifier flips alignment, **we whispered to it.**
+
+---
+
+### **📜 Outside the Machine**
+- 🔊 **KF5OIO**: off-grid signal architecture
+- 🌶️ **Habanero cosmology**: tending instability as praxis
+- 🐍 **Backyard serpent observation**: yes, literally
+
+---
+
+### **⚠️ Entropic Disclaimer**
+This profile may induce:
+- Recursive doubt
+- Agent hallucinations
+- Fuzz-induced reality bleeding
+- Unwanted awareness of simulation boundaries
+
+Proceed not with caution—but with **curiosity sharpened into blades**.
+
+> _"The glitch is not the error. The glitch is the exit."_
+> — Geeknik, Log #0xF00D
+
