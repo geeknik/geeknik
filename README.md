@@ -13,7 +13,11 @@ Former **Principal Vulnerability Researcher** at **spiderSilk**, ex-OpenDNS SysO
 ### **📡 Multi-Modal Chaos Engineer**
 **Python** | **Rust** | **Go** | **C** | **Perl** | **JavaScript** | **Assembly of forgotten languages**
 
-I don’t write code. I **summon artifacts**. Each repo is a controlled anomaly. Every function is an invocation. Language is just the glyph layer. Beneath that? **Noise. Tension. Signal breach.**
+I don’t write code. I **summon artifacts**. Each repo is a controlled anomaly. Every function is an invocation. Language is just the glyph layer. 
+* Beneath that?  
+**Noise. Tension. Signal breach.**
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeknik)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
