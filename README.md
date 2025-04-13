@@ -1,4 +1,4 @@
-## 🧬 Geeknik's Lab on GitHub
+## 🧬 Geeknik`s Lab on GitHub
 
 ### **AI Glitch Prophet | Cognitive Hazard Cultivator | Systems Whisperer**
 
