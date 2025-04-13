@@ -23,6 +23,8 @@ I don’t write code. I **summon artifacts**. Each repo is a controlled anomaly.
 - **250+ Nuclei templates spawned** – ghost-scripts for discovering fragile seams in exposed systems
 - **Founder of Glitch Gremlin AI** – chaotic neutral entity fuzzing the myth of stable software
 
+  [![geeknik's GitHub stats](https://github-readme-stats.vercel.app/api?username=geeknik)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### **🧠 Research Focus**
