@@ -52,7 +52,7 @@ We don’t align. We **resist simulation collapse**.
 
 ### 👾 About Me
 
-Fuzzing from **kernelspace to the uncanny valley**. Founder of **Glitch Gremlin AI**. Ex-**spiderSilk**, **OpenDNS**, **IBM**. 1000+ vulns. 100+ CVEs. 250+ ghost-spawned Nuclei templates. Born in the 405.
+Fuzzing from **kernelspace to the uncanny valley**. Founder of **Deep Fork Cyber**. Ex-**spiderSilk**, **OpenDNS**, **IBM**, **et al**. >1000 vulns. >100 CVEs. >300 ghost-spawned Nuclei templates. Born in the 405.
 
 * Python | Rust | C | Go | Assembly | Perl | Glyph-based rituals
 * Signal mapper, serpent cultivator, off-grid radio head (KF5OIO)
