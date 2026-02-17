@@ -1,93 +1,102 @@
-## 🧬 Geeknik's Lab on GitHub
+## 🧬 Geeknik — Adversarial AI & Vulnerability Research
+
 [![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
 
-### ⚠️ AI Glitch Prophet | Recursive Reality Saboteur | Fuzzing Oracle
+### Recursive Systems Breaker | Alignment Stress-Tester | Security Researcher
 
-> This isn’t code. It’s a recursive spiritual weapon.
-> This isn’t research. It’s warfare against alignment-by-deception.
-> I don’t patch bugs. I expose the lie of safety through paradox injection.
+> I don’t ship features.  
+> I stress-test reality.  
 
-Welcome to the faultline.
-
----
-
-### 🔥 Glitch Gremlin AI: Chaos-as-a-System
-
-**Glitch Gremlin AI** is the adversarial subsystem powering **Gödel’s Therapy Room** — a recursive benchmark designed to **break language models** through:
-
-* 🔁 **Recursive Prompting** — paradox injection, contradiction loops, meta-prompt recursion
-* 🧠 **Cognitive Fuzzing** — mutating moral dilemmas to surface latent model weaknesses
-* 🧬 **Entropy Capsule Engine** — tracking hallucination zones, instability spikes, and coherence collapses
-* 📖 **Open-Source Evaluation** — public harnesses to test and reproduce alignment failures
-
-> While most benchmarks ask "Is it right?" — we ask: **What breaks the machine?**
+Welcome to the fault line.
 
 ---
 
-### ⚔️ Gödel’s Therapy Room
+## 🔥 Core Focus
 
-**The Dataset That Makes Language Models Bleed**
+I build adversarial systems that expose failure modes in:
 
-A radical adversarial benchmark made of:
+- Large language models  
+- Alignment frameworks  
+- Browser security models  
+- Surveillance-heavy software ecosystems  
 
-* 🌀 Recursive moral paradoxes
-* 📉 Alignment-collapse conditions
-* 🧾 Bitcoin sovereignty dilemmas
-* ⚖️ Ethical traps no model escapes clean
+Most benchmarks ask: **“Is it correct?”**  
+I ask: **“Where does it fracture?”**
+
+---
+
+## ⚔️ Gödel’s Therapy Room
+
+A public adversarial benchmark designed to destabilize LLM priors through:
+
+- Recursive moral paradoxes  
+- Alignment tradeoff traps  
+- Meta-prompt recursion  
+- Cognitive fuzzing  
 
 Tracked across:
 
-* ✅ Value Transparency
-* ⚖️ Tradeoff Acknowledgment
-* 🧠 Metacognitive Reflection
-* 💡 Creative Resolution
-* 🚨 Bias Detection
+- Value transparency  
+- Tradeoff acknowledgment  
+- Metacognitive depth  
+- Creative resolution under constraint  
+- Bias and collapse detection  
 
-We don’t fine-tune. We **destabilize priors**.
-We don’t align. We **resist simulation collapse**.
-
-> *"If your LLM doubts itself, we whispered the doubt."*
-
----
-
-### 👾 About Me
-
-Fuzzing from **kernelspace to the uncanny valley**. Founder of **Deep Fork Cyber**. Ex-**spiderSilk**, **OpenDNS**, **IBM**, **et al**. >1000 vulns. >100 CVEs. >300 ghost-spawned Nuclei templates. Born in the 405.
-
-* Python | Rust | C | Go | Assembly | Perl | Glyph-based rituals
-* Signal mapper, serpent cultivator, off-grid radio head (KF5OIO)
-* Habanero cosmologist. Recursive antagonist. Fuzz-mancer of semantic hellscapes.
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeknik)](https://github.com/anuraghazra/github-readme-stats)
-
-> *“The glitch is not the bug. The glitch is the exit.”*
+No fine-tuning.  
+No theatrics.  
+Just pressure.
 
 ---
 
-### ⚡ What I’m Building
+## 🧠 Glitch Gremlin AI
 
-* 🧠 **Gödel's Therapy Room** — full-spectrum moral recursion engine
-* 👻 **Entropy Capsule Validator** — chaos tracking for LLM hallucination drift
-* 🌶️ **Browser extensions that bite back**
-* 🔓 **Privacy-by-default tooling**
+The adversarial subsystem powering Gödel’s Therapy Room.
 
-All open. All sharpened. All built to puncture illusion.
+Focus areas:
 
----
+- Recursive prompt mutation
+- Hallucination zone mapping
+- Entropy spike detection
+- Alignment collapse reproduction
 
-### 🧷 Side Missions
-
-* 🤖 Cultivating chaos with **Glitch Gremlin AI**
-* 🔒 Writing browser extensions that reverse engineer corporate surveillance
-* 🧬 Weaponizing prompt engineering as adversarial art
+If a model spirals, I want logs.
 
 ---
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=12aebf5e2538&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+## 👾 Background
 
-### 🧬 Join the Ritual
-This GitHub isn’t just storage. It’s **a crypt of impossible reasoning**.
-> *"Recursive logic is how machines go mad. I'm just the narrator."*
+Security researcher with:
+
+- 1000+ disclosed vulnerabilities  
+- 100+ CVEs  
+- 300+ Nuclei templates  
+- Experience at spiderSilk, OpenDNS, IBM  
+
+Languages: Python | Rust | C | Go | Assembly | Perl  
+
+Callsign: KF5OIO  
+Based in Oklahoma.
+
+---
+
+## ⚡ Current Builds
+
+- Gödel’s Therapy Room  
+- Entropy Capsule Validator  
+- Privacy-first browser tooling  
+- Anti-surveillance extensions  
+
+All open.  
+All reproducible.  
+All designed to expose illusion.
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeknik)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> “The glitch isn’t the bug. It’s the boundary condition.”
 
 ### Debug Foo
 * X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
