@@ -92,11 +92,9 @@ All designed to expose illusion.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeknik)](https://github.com/anuraghazra/github-readme-stats)
+> “The glitch isn’t the bug. It’s the boundary condition.”
 
 ---
-
-> “The glitch isn’t the bug. It’s the boundary condition.”
 
 ### Debug Foo
 * X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
