@@ -70,7 +70,7 @@ Security researcher with:
 - 1000+ disclosed vulnerabilities  
 - 100+ CVEs  
 - 300+ Nuclei templates  
-- Experience at spiderSilk, OpenDNS, IBM  
+- Experience in the wild  
 
 Languages: Python | Rust | C | Go | Assembly | Perl  
 
